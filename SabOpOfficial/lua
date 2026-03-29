@@ -1,2 +1,2 @@
 loadstring(game:HttpGet("https://pastefy.app/IyCZED9F/raw"))()
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/72bdd0e2a92a3d6de5c85f3672cb06c6a948f4fa24c0d2a3fc91585ee910f726/download"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/platinww/CrustyMain/refs/heads/main/Steal-A-Brainrot/DUELWorld.lua"))()
